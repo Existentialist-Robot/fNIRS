@@ -17,11 +17,11 @@ httpswww.anaconda.comproductsindividual
 
 Open anaconda terminal by one of the two following methods
 
-![conda_1](httpsgithub.comExistentialist-Robotkoalacademy_research_analyticsblobmainImagesconda_1.PNG)
+![conda_1](https://github.com/Existentialist-Robot/fNIRS/blob/main/Images/conda_1.PNG)
 
 or 
 
-![conda_2](httpsgithub.comExistentialist-Robotkoalacademy_research_analyticsblobmainImagesconda_2.PNG)
+![conda_2](https://github.com/Existentialist-Robot/fNIRS/blob/main/Images/conda_2.PNG)
 
 Once you have opened an anaconda terminal, navigate to the root of the repo directory you just cloned by the following command
 
@@ -32,7 +32,7 @@ cd full filepath of repo
 for example
 
 ```
-cd CUserseredmDocumentsGitHubkoalacademy_research_analytics
+cd Users/eredm/Documents/GitHub/koalacademy_research_analytics
 ```
 
 Press enter to run the command.
@@ -66,5 +66,5 @@ Press enter to run the command.
 
 This should open the framework.
 
-![spyder_1](httpsgithub.comExistentialist-Robotkoalacademy_research_analyticsblobmainImagesspyder_1.PNG)
+![spyder_1](https://github.com/Existentialist-Robot/fNIRS/blob/main/Images/spyder_1.PNG)
 
